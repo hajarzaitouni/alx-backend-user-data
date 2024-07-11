@@ -1,0 +1,1 @@
+Welcome to the alx-backend-user-data repository. This repository contains various backend projects and exercises from the ALX program, focusing on different aspects of backend development such as Basic authentication, session authentication etc and more.
